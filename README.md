@@ -1,7 +1,3 @@
-# To-Do-List-Application
-Build a simple to-do list application with tkinter.
-
-
 # To-Do List Application
 
 A simple **To-Do List** application built with Python's `tkinter` library. The app allows users to add, delete, and clear tasks with an intuitive GUI, featuring a motivational message to encourage task completion.
