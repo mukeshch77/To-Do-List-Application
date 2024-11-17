@@ -60,4 +60,4 @@ Included some screenshots here like - how to look to-do list app, added some tas
 
 
 
----The **To-Do List App** is a simple task manager built with Python's `tkinter`. It allows users to add, delete, and clear tasks, while displaying a motivational message. The app offers a clean and easy-to-use interface, making it a useful tool for staying organized and productive.
+The **To-Do List App** is a simple task manager built with Python's `tkinter`. It allows users to add, delete, and clear tasks, while displaying a motivational message. The app offers a clean and easy-to-use interface, making it a useful tool for staying organized and productive.
