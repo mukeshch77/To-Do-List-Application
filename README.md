@@ -58,6 +58,6 @@ Included some screenshots here like - how to look to-do list app, added some tas
 - **`delete_task()`**: Deletes the selected task from the list when the "Delete Task" button is clicked.
 - **`clear_tasks()`**: Clears all tasks when the "Clear All" button is clicked, after asking for confirmation.
 
-### Conclusion
 
-The **To-Do List App** is a simple task manager built with Python's `tkinter`. It allows users to add, delete, and clear tasks, while displaying a motivational message. The app offers a clean and easy-to-use interface, making it a useful tool for staying organized and productive.
+
+---The **To-Do List App** is a simple task manager built with Python's `tkinter`. It allows users to add, delete, and clear tasks, while displaying a motivational message. The app offers a clean and easy-to-use interface, making it a useful tool for staying organized and productive.
